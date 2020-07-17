@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm Cheng,
-- 🌱 maybe is
-- ⚡ a network engineer.
+- 🔭 I'm Cheng,  
+🌱 maybe is  
+⚡ a network engineer.
 
 - 🤔 I care a lot about
 building things that are
