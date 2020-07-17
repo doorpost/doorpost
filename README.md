@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm Cheng,  
-🌱 maybe is  
-⚡ a network engineer.
+- 🌱 I'm Cheng,  
+maybe is  
+a network engineer.
 
-- 🤔 I care a lot about
-building things that are
-genuinely useful
+- 🤔 I care a lot about building things that are genuinely useful  
 and a pleasure to use.
 
-- ⚡ Keep things simple,
-innovate and move quickly.
-Have empathy and make
+- ⚡ Keep things simple,  
+innovate and move quickly.  
+Have empathy and make  
 deliberate choices.
 
 
